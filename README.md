@@ -2,7 +2,7 @@
 
 # Gallery Art Website
 
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
+[[License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
 A visually stunning gallery art website showcasing curated artwork with descriptions and meaningful context. Built using **Next.js**, **Tailwind CSS**, **Framer Motion**, **Node.js (Express)**, and **MongoDB**, this project highlights design and development skills with a focus on UI/UX.
 
 ## 🚀 Features
